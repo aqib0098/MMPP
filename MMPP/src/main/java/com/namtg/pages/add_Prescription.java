@@ -15,7 +15,7 @@ WebDriver driver;
 		this. driver = driver;
 		
 	}
-	// test gooid one more change 
+	// test gooid one more change  1234
 	//WebDriverWait wait = new WebDriverWait(driver, 60);
 	By addPrescriptionlnk=By.xpath("//*[@id='container_body']/p[2]/a/input");
 	By prescriptionName =By.id("exampleInputcardnumber1");
